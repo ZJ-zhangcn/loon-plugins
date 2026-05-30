@@ -19,3 +19,13 @@ MITM 域名：
 ```text
 acs-m.freshippo.com
 ```
+
+### 12306 广告域名屏蔽
+
+订阅地址：
+
+```text
+https://raw.githubusercontent.com/ZJ-zhangcn/loon-plugins/main/plugins/12306-ad-domain.plugin
+```
+
+作用：屏蔽 12306 明确广告域名 `ad.12306.cn`。测试确认它不影响开屏等待页，仅作为广告域名屏蔽规则使用。
