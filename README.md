@@ -20,6 +20,22 @@ MITM 域名：
 acs-m.freshippo.com
 ```
 
+### 招商银行开屏广告
+
+订阅地址：
+
+```text
+https://raw.githubusercontent.com/ZJ-zhangcn/loon-plugins/main/plugins/cmb-startup-ad.plugin
+```
+
+作用：移除招商银行 App 启动开屏广告配置，并兜底屏蔽 `mbappinitads` 开屏素材。
+
+MITM 域名：
+
+```text
+webappcfg.paas.cmbchina.com, s3gw.cmbimg.cn
+```
+
 ### 12306 广告域名屏蔽
 
 订阅地址：
