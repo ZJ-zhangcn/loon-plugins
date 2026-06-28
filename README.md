@@ -36,7 +36,7 @@ MITM 域名：
 webappcfg.paas.cmbchina.com, s3gw.cmbimg.cn
 ```
 
-### 京东开屏广告
+### 京东开屏广告补丁
 
 订阅地址：
 
