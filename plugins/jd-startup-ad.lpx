@@ -1,8 +1,0 @@
-#!name=京东开屏广告补丁
-#!desc=拦截京东 App 启动阶段 smart_delivery_strategy 投放策略请求，去除开屏广告。注意：需由现有插件或配置提供 api.m.jd.com 的 MITM hostname。
-#!author=ZJ-zhangcn
-#!homepage=https://github.com/ZJ-zhangcn/loon-plugins
-#!icon=https://i.pinimg.com/1200x/b6/d3/df/b6d3dfaeb81e17147bfb291b35d5378a.jpg
-
-[Rule]
-URL-REGEX,^https:\/\/api\.m\.jd\.com\/client\.action\?functionId=smart_delivery_strategy(?:&|$),REJECT

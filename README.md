@@ -36,22 +36,6 @@ MITM 域名：
 webappcfg.paas.cmbchina.com, s3gw.cmbimg.cn
 ```
 
-### 京东开屏广告补丁
-
-订阅地址：
-
-```text
-https://raw.githubusercontent.com/ZJ-zhangcn/loon-plugins/main/plugins/jd-startup-ad.lpx
-```
-
-作用：拦截京东 App 启动阶段 `smart_delivery_strategy` 投放策略请求，去除开屏广告。
-
-注意：本插件不重复声明 MITM；需由现有插件或配置提供：
-
-```text
-api.m.jd.com
-```
-
 ### 12306 广告域名屏蔽
 
 订阅地址：
