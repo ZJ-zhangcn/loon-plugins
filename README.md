@@ -36,7 +36,7 @@ MITM 域名：
 webappcfg.paas.cmbchina.com, s3gw.cmbimg.cn
 ```
 
-### 发现精彩开屏广告测试
+### 发现精彩广告拦截
 
 订阅地址：
 
@@ -44,7 +44,7 @@ webappcfg.paas.cmbchina.com, s3gw.cmbimg.cn
 https://raw.githubusercontent.com/ZJ-zhangcn/loon-plugins/main/plugins/cgb-life-startup-ad-test.lpx
 ```
 
-作用：临时测试拦截 广发信用卡/发现精彩 启动页资源配置与 `popupads` 素材，并清理抓包中出现的 `APP首页标准版浮窗 / countDown=3`。
+作用：拦截 广发信用卡/发现精彩 开屏广告素材与抓包中出现的 `APP首页标准版浮窗 / countDown=3`。实测卸载重装后仍存在的 3 秒原生启动等待，当前插件不再承诺移除。
 
 MITM 域名：
 
