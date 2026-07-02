@@ -36,6 +36,22 @@ MITM 域名：
 webappcfg.paas.cmbchina.com, s3gw.cmbimg.cn
 ```
 
+### 发现精彩开屏广告测试
+
+订阅地址：
+
+```text
+https://raw.githubusercontent.com/ZJ-zhangcn/loon-plugins/main/plugins/cgb-life-startup-ad-test.lpx
+```
+
+作用：临时测试拦截 广发信用卡/发现精彩 启动页资源配置与 `popupads` 素材，用于验证是否能去除开屏 3 秒空白等待。
+
+MITM 域名：
+
+```text
+8.95508.com, static.95508.com
+```
+
 ### 12306 广告域名屏蔽
 
 订阅地址：
